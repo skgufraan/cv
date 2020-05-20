@@ -1,0 +1,40 @@
+
+/*************************************************Tag Selector**********************************************************/
+body {
+      background-color:#ffe8bd;
+     }
+
+     hr {
+      background-color:#ffe8bd;
+      border-style:none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 2%;
+     }
+
+     h1 {
+      color: #00689a;
+     }
+     h2 {
+      color: #5c2626;
+     }
+     h3{
+      color: #00689a;
+     }
+
+
+/*************************************************Class Selector**********************************************************/
+.circular {
+  border-radius: 100%;
+}
+
+.white {
+  background-color: #e0e0e0;
+}
+
+/*************************************************ID Selector**********************************************************/
+
+#color {
+  color: black;
+}
